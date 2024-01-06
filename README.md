@@ -1,4 +1,4 @@
-本项目为2021年中国高校大数据挑战赛A题，最终获得二等奖。合作者为@Chen Mengting@和Gao Yifan。
+本项目为2021年中国高校大数据挑战赛A题，最终获得二等奖。合作者为@Chen Mengting和@Gao Yifan。
 
 文档说明：
 - 赛题A.pdf：赛题A
